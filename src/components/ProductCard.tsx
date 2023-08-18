@@ -60,7 +60,6 @@ export function ProductCard({
           maxCount: initialValues?.maxCount,
           isMaxCountReached,
           product,
-
           increaseBy,
           reset,
         })}
